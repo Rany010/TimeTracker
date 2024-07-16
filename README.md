@@ -6,9 +6,13 @@
 
 引入头文件使用，如main.cc所示
 
+# 编译
+'''
+g++ -o main MTimer.cc main.cc
+'''
+
 # 快速执行
 
 '''
-g++ -o main MTimer.cc main.cc
 ./main
 '''
