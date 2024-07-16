@@ -1,0 +1,8 @@
+[functionA] started at 1721108513695 ms
+[functionA] ended at 1721108513706 ms
+[functionA] elapsed time: 10 milliseconds.
+
+[functionB] started at 1721108513707 ms
+[functionB] ended at 1721108513727 ms
+[functionB] elapsed time: 20 milliseconds.
+
